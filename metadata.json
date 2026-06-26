@@ -1,0 +1,6 @@
+{
+  "name": "Aprende a Dividir",
+  "description": "Una aplicación educativa interactiva para enseñar a los niños a dividir usando vínculos numéricos y bloques de base 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
